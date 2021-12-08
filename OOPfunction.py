@@ -1,4 +1,4 @@
-from exercise import shopping
+from OOPclass import shopping
 
 def MakeList():
     ShoppingList=[]
